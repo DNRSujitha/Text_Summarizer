@@ -1,12 +1,17 @@
 # Text_Summarizer
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: Dodda.Naga Rama Sujitha
+
 INTERN ID: CT06DK678
+
 DOMAIN: Artificial intelligence
+
 DURATION: 6 Weeks
+
 MENTOR: Neela Santosh
 
-Description: 
+#Description: 
   A Text Summarization Tool is a sophisticated software application designed to distill lengthy text documents into shorter, coherent versions while preserving their core meaning and most vital information. In an era dominated by information overload, these tools are invaluable, enabling individuals and organizations to quickly grasp the essence of vast amounts of textual data without the need for extensive reading.
 
 At its core, a summarization tool automates a cognitive process that humans perform: identifying and extracting key points. This automation can manifest in two primary ways:
